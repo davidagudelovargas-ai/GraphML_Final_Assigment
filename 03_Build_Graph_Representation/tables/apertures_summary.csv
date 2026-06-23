@@ -1,0 +1,67 @@
+id,type,name,area,width,height,center_x,center_y,center_z,connected_room_count,connected_rooms
+A001,aperture,Aperture_001,1.659,2.308,0.719,-11.477,-1.154,-83.631,3,Corridor_001 | Store_Room_001 | Room_001
+A002,aperture,Aperture_002,1.659,2.308,0.719,-8.728,-1.154,-83.908,3,Corridor_001 | Bathroom_001 | Room_001
+A003,aperture,Aperture_003,2.182,2.341,0.932,-12.275,-1.17,-82.423,3,Corridor_001 | Kitchen_001 | Store_Room_001
+A004,aperture,Aperture_004,1.614,2.237,0.722,-13.864,-1.118,-79.841,2,Corridor_001 | Bathroom_002
+A005,aperture,Aperture_005,1.85,2.265,0.817,-0.666,-1.133,-79.97,2,Corridor_006 | Bathroom_004
+A006,aperture,Aperture_006,1.576,2.309,0.682,-1.516,-1.155,-82.096,3,Corridor_002 | Bathroom_005 | Corridor_003
+A007,aperture,Aperture_007,1.665,2.258,0.737,12.904,-1.129,-82.254,2,Corridor_005 | Bathroom_006
+A008,aperture,Aperture_008,2.025,2.243,0.903,20.704,-1.121,-82.772,3,Corridor_005 | Kitchen_005 | Store_Room_002
+A009,aperture,Aperture_009,2.702,2.294,1.178,3.987,-1.147,-82.183,2,Corridor_002 | Staircase_004
+A010,aperture,Aperture_010,1.995,2.354,0.847,7.463,-1.177,-80.875,2,Corridor_002 | Corridor_004
+A011,aperture,Aperture_011,2.426,2.319,1.046,12.584,-1.16,-83.685,2,Corridor_002 | Corridor_005
+A012,aperture,Aperture_012,2.329,2.216,1.051,-0.14,-1.108,-80.875,2,Corridor_002 | Corridor_006
+A013,aperture,Aperture_013,2.515,2.155,1.167,-2.099,-1.077,-83.125,2,Corridor_002 | Corridor_003
+A014,aperture,Aperture_014,2.172,2.24,0.97,-6.557,-1.12,-83.609,2,Corridor_002 | Corridor_001
+A015,aperture,Aperture_015,1.94,2.206,0.88,-2.683,-1.167,-80.58,2,Corridor_003 | Kitchen_003
+A016,aperture,Aperture_016,2.596,2.336,1.111,-2.071,-1.168,-79.187,2,Corridor_003 | Livingroom_002
+A017,aperture,Aperture_017,1.757,2.265,0.775,-5.427,-1.133,-79.189,2,Livingroom_002 | Kitchen_003
+A018,aperture,Aperture_018,1.667,2.243,0.743,21.414,-1.122,-79.217,2,Corridor_005 | Room_002
+A019,aperture,Aperture_019,2.012,2.268,0.887,20.599,-1.134,-79.217,2,Corridor_005 | Dining_003
+A020,aperture,Aperture_020,1.808,2.268,0.797,17.76,-1.134,-79.217,2,Corridor_005 | Dining_003
+A021,aperture,Aperture_021,2.018,2.268,0.889,17.361,-1.134,-76.214,2,Dining_003 | Livingroom_004
+A022,aperture,Aperture_022,1.931,2.268,0.851,17.361,-1.134,-78.792,2,Dining_003 | Livingroom_004
+A023,aperture,Aperture_023,1.939,2.284,0.849,15.305,-1.142,-79.217,2,Corridor_005 | Livingroom_004
+A024,aperture,Aperture_024,2.332,2.259,1.032,9.681,-1.13,-79.157,2,Corridor_004 | Dining_001
+A025,aperture,Aperture_025,2.883,1.927,1.496,9.165,-0.964,-77.25,2,Dining_001 | Livingroom_003
+A026,aperture,Aperture_026,2.139,2.282,0.937,2.583,-1.141,-78.717,2,Corridor_006 | Livingroom_005
+A027,aperture,Aperture_027,2.139,2.282,0.937,-0.161,-1.141,-78.717,2,Corridor_006 | Livingroom_005
+A028,aperture,Aperture_028,1.701,2.267,0.75,-15.241,-1.134,-78.419,2,Corridor_001 | Dining_002
+A029,aperture,Aperture_029,1.701,2.267,0.75,-12.267,-1.134,-78.419,2,Corridor_001 | Dining_002
+A030,aperture,Aperture_030,2.24,2.218,1.01,-11.821,-1.109,-77.627,2,Livingroom_001 | Dining_002
+A031,aperture,Aperture_031,2.24,2.218,1.01,-11.029,-1.109,-78.419,2,Corridor_001 | Livingroom_001
+A032,aperture,Aperture_032,2.24,2.218,1.01,-7.062,-1.109,-78.419,2,Corridor_001 | Livingroom_001
+A033,aperture,Aperture_033,1.833,2.346,0.781,6.778,-1.173,-79.548,2,Corridor_004 | Bathroom_003
+A034,aperture,Aperture_034,1.621,2.163,0.749,11.697,-1.081,-76.177,2,Kitchen_004 | Dining_001
+A035,aperture,Aperture_035,1.584,2.153,0.736,3.164,-1.077,-76.057,2,Kitchen_002 | Livingroom_005
+A036,aperture,Aperture_036,1.974,2.288,0.863,-12.236,-1.144,-79.841,2,Corridor_001 | Kitchen_001
+A037,aperture,Aperture_037,1.561,2.212,0.706,-7.66,-1.106,-81.044,2,Corridor_001 | Kitchen_001
+A038,aperture,Aperture_038,1.584,2.153,0.736,3.164,-1.077,-79.174,3,Kitchen_002 | Corridor_006 | Livingroom_005
+A039,aperture,Aperture_039,1.621,2.163,0.749,11.646,-1.081,-79.864,2,Corridor_004 | Kitchen_004
+A040,aperture,Aperture_040,2.163,2.218,0.975,17.82,-1.109,-80.311,2,Corridor_005 | Kitchen_005
+A041,aperture,Aperture_041,2.038,2.197,0.928,16.69,-1.099,-81.75,2,Corridor_005 | Staircase_006
+A042,aperture,Aperture_042,1.418,2.179,0.651,10.202,-1.09,-81.588,3,Corridor_002 | Staircase_005 | Corridor_004
+A043,aperture,Aperture_043,2.113,2.216,0.954,0.385,-1.108,-80.303,2,Staircase_003 | Corridor_006
+A044,aperture,Aperture_044,1.757,2.117,0.83,-2.683,-1.059,-82.598,3,Corridor_002 | Corridor_003 | Staircase_002
+A045,aperture,Aperture_045,1.724,1.83,0.691,-16.352,-0.915,-78.857,2,Corridor_001 | Staircase_001
+A046,aperture,Window_001,5.857,2.843,1.922,23.214,-1.288,-77.796,1,Room_002
+A047,aperture,Window_002,0.897,1.922,0.436,22.582,-1.288,-79.435,1,Corridor_005
+A048,aperture,Window_003,1.89,1.922,1.835,21.865,-0.967,-81.298,2,Corridor_005 | Kitchen_005
+A049,aperture,Window_004,4.922,2.722,1.808,19.287,-1.323,-75.796,1,Dining_003
+A050,aperture,Window_005,5.102,2.822,1.808,15.569,-1.323,-75.744,1,Livingroom_004
+A051,aperture,Window_006,1.293,1.896,0.682,12.382,-1.279,-75.7,1,Kitchen_004
+A052,aperture,Window_007,1.887,1.99,1.896,10.83,-1.595,-75.679,1,Dining_001
+A053,aperture,Window_008,4.141,2.184,1.896,7.933,-1.279,-75.639,1,Livingroom_003
+A054,aperture,Window_009,2.908,1.896,1.534,4.265,-1.279,-75.588,1,Kitchen_002
+A055,aperture,Window_010,6.856,3.616,1.896,1.013,-1.279,-75.543,1,Livingroom_005
+A056,aperture,Window_011,6.952,3.667,1.896,-4.103,-1.279,-75.472,1,Livingroom_002
+A057,aperture,Window_012,6.552,3.456,1.896,-8.816,-1.279,-75.407,1,Livingroom_001
+A058,aperture,Window_013,5.934,3.13,1.896,-13.807,-1.279,-75.338,1,Dining_002
+A059,aperture,Window_014,4.073,2.148,1.896,-17.48,-1.279,-75.287,2,Dining_002 | Staircase_001
+A060,aperture,Window_015,0.271,1.944,0.102,-19.59,-1.277,-76.599,1,Staircase_001
+A061,aperture,Window_016,0.271,1.944,0.102,-18.474,-1.277,-77.635,2,Dining_002 | Staircase_001
+A062,aperture,Window_017,0.271,1.944,0.102,-17.357,-1.277,-78.67,1,Staircase_001
+A063,aperture,Window_018,0.271,1.944,0.102,-16.24,-1.277,-79.706,1,Corridor_001
+A064,aperture,Window_019,0.271,1.944,0.102,-15.123,-1.277,-80.742,2,Corridor_001 | Bathroom_002
+A065,aperture,Window_020,1.805,1.944,0.928,-13.503,-1.277,-81.809,2,Corridor_001 | Kitchen_001
+A066,aperture,Window_021,2.622,1.944,1.349,-13.503,-1.277,-83.098,2,Corridor_001 | Store_Room_001
